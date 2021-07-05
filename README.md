@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Docker, Blockchain and IOT**
 
-- 💬 Ask me about **I have much more Expertise in React.js**
+- 💬 Ask me about ** React.js**
 
 - 📫 How to reach me **m.tayyab.gcuf@gmail.com**
 
